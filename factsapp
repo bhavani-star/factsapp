@@ -1,0 +1,98 @@
+<html>
+<body>
+<head>
+
+
+
+</head>
+
+<h2>Login First</h2>
+
+Instructions<br>
+1) give first ur name it is cumpalsury<br>
+<br>
+2)whatever fact u want to see u have to give the username and password and then click on login <br>
+<br>
+3) there is no worries because no one can see that information u had given<br>
+  <br>
+  <br>
+
+<form> 
+  <label for="">Your Name :</label><br>
+<input line="text" line="name" line="name" line=""required><br>
+
+</form> 
+
+
+
+
+
+<html>
+<body>
+<head>
+
+
+
+</head>
+
+
+
+
+
+
+
+
+<form action = "https://www.youtube.com/channel/UCM6j6lkcJZmHXhMKRuodDFA"><br>
+ <input type="submit" value="Viruchi facts">
+<input type="text" placeholder="Enter Username" name="username" required>
+ <label>Password : </label> <input type="password" placeholder="Enter Password" name="password" required>
+  <button type="submit">Login</button>
+
+</form>
+
+<form action = "https://www.youtube.com/channel/UCS7GFgeSAGMGS1_oXbTNKyQ"><br>
+ <input type="submit" value="Telugu Dost">
+<input type="text" placeholder="Enter Username" name="username" required>
+ <label>Password : </label> <input type="password" placeholder="Enter Password" name="password" required>
+  <button type="submit">Login</button>
+
+</form>
+<form action = "https://www.youtube.com/channel/UCLLn2niD6nYjw3B2UyUMMxg"><br>
+ <input type="submit" value="Facts Fover">
+
+<input type="text" placeholder="Enter Username" name="username" required>
+ <label>Password : </label> <input type="password" placeholder="Enter Password" name="password" required>
+  <button type="submit">Login</button>
+</form>
+
+
+
+<form action = "https://www.youtube.com/channel/UCekyMtsUuTBxInGbeSX3EUg"><br>
+ <input type="submit" value="VR Raja facts">
+<input type="text" placeholder="Enter Username" name="username" required>
+ <label>Password : </label> <input type="password" placeholder="Enter Password" name="password" required>
+  <button type="submit">Login</button>
+
+</form>
+
+
+<form action = "https://www.youtube.com/channel/UCqR14yApZM2ZAOTY0qrKIGw"><br>
+ <input type="submit" value="Vikramaditya facts">
+<input type="text" placeholder="Enter Username" name="username" required>
+ <label>Password : </label> <input type="password" placeholder="Enter Password" name="password" required>
+  <button type="submit">Login</button>
+
+</form>
+<br>
+<br>
+<br>
+
+<p>"This Is Done By Vikranth Kumar"</p>
+
+</body>
+</html>
+
+
+
+</body>
+</html>
